@@ -1,5 +1,7 @@
 # NodeJS and Socket.io WebServer for iOS Demo
 
+[![CodeFactor](https://www.codefactor.io/repository/github/pilo1996/nodejs-and-socket.io-webserver-for-ios-demo/badge)](https://www.codefactor.io/repository/github/pilo1996/nodejs-and-socket.io-webserver-for-ios-demo)
+
 ## Dependencies
 - Express
 - Socket.io
